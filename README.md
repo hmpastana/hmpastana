@@ -1,4 +1,4 @@
-###### Hi there, I'm Hellen 👋
+### Hi there, I'm Hellen 👋
 
 <!--
 **hmpastana/hmpastana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
