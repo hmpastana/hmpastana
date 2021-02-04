@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something really cool
 - 🌱 I’m currently learning VueJs
-- 📫 How to reach me: <a href="https://linkedin.com/in/hellen-pastana" rel="nofollow">@hellen-pastana</a> or on Email at <a href="mailto:hellenmpastana@gmail.com">Hellen Pastana</a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/hellen-pastana" rel="nofollow">@hellen-pastana</a> or on email at <a href="mailto:hellenmpastana@gmail.com">hellenmpastana@gmail.com</a>
 - ⚡ Hobbies: I love coding and playing videogames with my husband in my free time
 
 #### Connect with me
