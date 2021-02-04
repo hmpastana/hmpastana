@@ -1,4 +1,9 @@
-### Hi there, I'm Hellen 👋
+### Hi there, I'm Hellen <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
+
+- 🔭 I’m currently working on something really cool
+- 🌱 I’m currently learning VueJs
+- 📫 How to reach me: <a href="https://linkedin.com/in/hellen-pastana" rel="nofollow">@hellen-pastana</a> or on Email at <a href="mailto:hellenmpastana@gmail.com">Hellen Pastana</a>
+- ⚡ Hobbies: I love coding and playing videogames with my husband in my free time
 
 #### Connect with me
 
