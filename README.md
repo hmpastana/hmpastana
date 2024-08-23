@@ -3,7 +3,7 @@
 I'm a programmer passionate about learning new technologies.
 
 - 🔭 I’m currently working on something really cool
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: <a href="https://linkedin.com/in/hellen-pastana" rel="nofollow">@hellen-pastana</a> or on email at <a href="mailto:hellenmpastana@gmail.com">hellenmpastana@gmail.com</a>
 - ⚡ Hobbies: I love coding and playing videogames with my husband in my free time <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji>
 
