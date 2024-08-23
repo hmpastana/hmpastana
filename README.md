@@ -29,9 +29,11 @@ I'm a programmer passionate about learning new technologies.
 
 #### Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,typescript, javascript, jquery, bootstrap, html, Postgresql, Mysql, vscode, github, git, terminal, ubuntu, macos, aws, " />
+    <img src="https://skillicons.dev/icons?i=laravel,php,react, nextjs,vue,typescript, js, jquery, bootstrap, html, css, sass postgres, Mysql, vscode, github, git, terminal, linux, ubuntu, macos, aws, postman, figma, gatsby, graphql" />
   </a>
 </p>
 
