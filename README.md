@@ -9,16 +9,16 @@ I'm a programmer passionate about learning new technologies.
 
 #### Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/hellen-pastana/)
-
-[![My Skills](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/hmpastana)
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)]([https://skillicons.dev](http://hellenpastana.com)
-
-
+<a href="https://www.linkedin.com/in/hellen-pastana/" rel="nofollow">
+  <img align="left" alt="hellen-pastana | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
+</a>
 
 <a href="http://hellenpastana.com" rel="nofollow" target="_blank">
   <img align="left" alt="hellenpastana | FH Web Systems" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;">
+</a>
+
+<a href="https://github.com/hmpastana">
+  <img align="left" alt="hmpastana | GitHub" width="22px" src="https://skillicons.dev/icons?i=github" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
 </a>
 
 </br>
