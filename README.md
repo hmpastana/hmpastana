@@ -33,7 +33,7 @@ I'm a programmer passionate about learning new technologies.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react, nextjs,vue,typescript, js, jquery, bootstrap, html, css, sass postgres, Mysql, vscode, github, git, terminal, linux, ubuntu, macos, aws, postman, figma, gatsby, graphql" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,vue,typescript,js, jquery, bootstrap,html,css,sass,postgres,mysql,vscode,github,git,terminal,linux,ubuntu, macos,aws,postman,figma,gatsby,graphql" />
   </a>
 </p>
 
