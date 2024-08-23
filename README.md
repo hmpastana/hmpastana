@@ -9,20 +9,16 @@ I'm a programmer passionate about learning new technologies.
 
 #### Connect with me
 
-<a href="https://www.linkedin.com/in/hellen-pastana/" rel="nofollow">
-  <img align="left" alt="hellen-pastana | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/hellen-pastana/)
+
+[![My Skills](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/hmpastana)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)]([https://skillicons.dev](http://hellenpastana.com)
+
+
 
 <a href="http://hellenpastana.com" rel="nofollow" target="_blank">
   <img align="left" alt="hellenpastana | FH Web Systems" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;">
-</a>
-
-<a href="https://github.com/hmpastana">
-  <img align="left" alt="hmpastana | GitHub" width="22px" src="https://skillicons.dev/icons?i=github" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
-</a>
-
-<a href="https://www.instagram.com/hellenmarquespastana/" rel="nofollow">
-  <img align="left" alt="hellenpastana | Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
 </a>
 
 </br>
@@ -30,23 +26,6 @@ I'm a programmer passionate about learning new technologies.
 #### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,react,nextjs,vue,typescript,js,jquery,bootstrap,html,css,sass,postgres,mysql,vscode,github,git,linux,ubuntu,aws,postman,figma,gatsby,graphql)](https://skillicons.dev)
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <!--
 **hmpastana/hmpastana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
