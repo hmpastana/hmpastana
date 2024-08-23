@@ -9,7 +9,7 @@ I'm a programmer passionate about learning new technologies.
 
 #### Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hellen-pastana/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/hellen-pastana/)
 
 <a href="https://www.linkedin.com/in/hellen-pastana/" rel="nofollow">
   <img align="left" alt="hellen-pastana | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
@@ -20,7 +20,7 @@ I'm a programmer passionate about learning new technologies.
 </a>
 
 <a href="https://github.com/hmpastana">
-  <img align="left" alt="hmpastana | GitHub" width="22px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
+  <img align="left" alt="hmpastana | GitHub" width="22px" src="https://skillicons.dev/icons?i=github" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
 </a>
 
 <a href="https://www.instagram.com/hellenmarquespastana/" rel="nofollow">
