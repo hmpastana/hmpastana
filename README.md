@@ -29,13 +29,7 @@ I'm a programmer passionate about learning new technologies.
 
 #### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,nextjs,vue,typescript,js,jquery,bootstrap,html,css,sass,postgres,mysql,vscode,github,git,terminal,linux,ubuntu,aws,postman,figma,gatsby,graphql)](https://skillicons.dev)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,vue,typescript,js,jquery,bootstrap,html,css,sass,postgres,mysql,vscode,github,git,terminal,linux,ubuntu,aws,postman,figma,gatsby,graphql" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,nextjs,vue,typescript,js,jquery,bootstrap,html,css,sass,postgres,mysql,vscode,github,git,linux,ubuntu,aws,postman,figma,gatsby,graphql)](https://skillicons.dev)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
