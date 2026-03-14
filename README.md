@@ -25,7 +25,7 @@ Currently working on high-impact product features across backend services and fr
 ## 🌎 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/hellen-pastana)
-[![Website](https://img.shields.io/badge/Portfolio-hellenpastana.com-black?style=for-the-badge&logo=globe)](http://hellenpastana.com)
+[![Website](https://img.shields.io/badge/Portfolio-hellenpastana.com-black?style=for-the-badge&logo=globe)](https://www.hellenpastana.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/hmpastana)
 
 ---
